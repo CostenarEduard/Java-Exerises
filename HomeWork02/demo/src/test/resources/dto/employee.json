@@ -1,0 +1,7 @@
+{
+  "id" : 1,
+  "name" : "eduard",
+  "job" : "test",
+  "departmentId" : 1,
+  "departmentName" : "production"
+}
